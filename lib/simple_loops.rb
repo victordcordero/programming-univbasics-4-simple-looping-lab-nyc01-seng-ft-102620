@@ -15,3 +15,4 @@ def loop_message_n_times(array)
     puts array
     counter += 1
 end
+end
