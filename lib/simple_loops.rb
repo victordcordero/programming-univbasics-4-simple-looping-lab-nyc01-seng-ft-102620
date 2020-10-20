@@ -3,7 +3,7 @@ require 'pry'
 
 def loop_message_five_times(array)
   counter = 0
-  while count < 5 do
+  while counter < 5 do
     puts array
     counter += 1
   end
@@ -11,7 +11,7 @@ def loop_message_five_times(array)
 
 def loop_message_n_times(array,limit)
   counter = 0
-  while count < limit do
+  while counter < limit do
     puts array
     counter += 1
 end
