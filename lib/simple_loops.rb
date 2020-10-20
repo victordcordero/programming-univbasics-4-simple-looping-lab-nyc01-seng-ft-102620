@@ -10,6 +10,4 @@ def loop_message_five_times(array)
   end
 
 def loop_message_n_times(array)
-binding.pry
-end
 end
