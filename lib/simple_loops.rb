@@ -17,3 +17,5 @@ def loop_message_n_times(array,integer)
     counter += 1
 end
 end
+
+loop_message_n_times
