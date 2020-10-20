@@ -9,7 +9,7 @@ def loop_message_five_times(array)
   end
   end
 
-def loop_message_n_times(array,integer)
+def loop_message_n_times(array,limit)
   counter = 0
   while array[counter] do
     puts array
