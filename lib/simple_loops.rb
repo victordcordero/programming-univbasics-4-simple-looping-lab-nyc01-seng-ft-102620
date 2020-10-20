@@ -10,6 +10,7 @@ def loop_message_five_times(array)
   end
 
 def loop_message_n_times(array,integer)
+  binding.pry
   counter = 0
   while array[counter] do
     puts array
