@@ -27,9 +27,9 @@ end
 end
 
 def return_string_array(array)
-  counter = 0
+  counter = 1
   while array[counter] do
-    puts array
-    counter += 1
+    return array
+    counter += 0
 end
 end
