@@ -11,7 +11,7 @@ def loop_message_five_times(array)
 
 def loop_message_n_times(array,limit)
   counter = 0
-  while array[counter] do
+  while count < limit do
     puts array
     counter += 1
 end
